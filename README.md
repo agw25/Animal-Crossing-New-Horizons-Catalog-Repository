@@ -21,5 +21,7 @@ Welcome! This is the final project for my LIS 545 Data Curation class taught at 
 </p>
 
 <p align= "center">
+  
   <sub>Image Source: [Kelsie McGowan](https://kelsiem.wixsite.com/portfolio) @kelsiemcgowan </sub></center>
+  
 </p>
