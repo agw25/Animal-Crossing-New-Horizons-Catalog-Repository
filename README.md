@@ -12,7 +12,7 @@ The Main Branch holds:
   * contains a data and metadata profile, a repository profile, and additional information such as preservation tips, recommended data citation, licensing information, and human subject considerations.
 ## Data Branch
 The Data Branch holds: 
-* 30 CSV Files
+* A Folder name "Data" with 30 CSV Files
 * Two structured metadata XML files that follow the Dublin Core Schema 
 
 
