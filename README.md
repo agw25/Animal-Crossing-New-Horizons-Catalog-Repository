@@ -13,7 +13,7 @@ The Main Branch holds:
 ## Data Branch
 The Data Branch holds: 
 * 30 CSV Files
-* Two structured metadata XML files that follow the Dublin Core Schema 
+* Two structured metadata XML files that follow the 4.4 DataCite Schema 
 
 
 <p align= "center">
