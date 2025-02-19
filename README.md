@@ -9,18 +9,27 @@ Welcome! This is the final project for my LIS 545 Data Curation class taught at 
 The Main Branch holds: 
 * ReadMe File
 * A Final Report PDF
-  * contains a data and metadata profile, a repository profile, and additional information such as preservation tips, recommended data citation, licensing information, and human subject considerations.
+  * contains a Data and Metadata profile, a Repository Profile, and additional information such as preservation tips, recommended data citation, copyright licensing information, and human subject considerations.
 ## Data Branch
 The Data Branch holds: 
+data
 * 30 CSV Files
 * Two structured metadata XML files that follow the 4.4 DataCite Schema 
 
+* A Folder named "Data" with 30 CSV Files. Each file contains the corresponding items from the game. 
+  
+<p align= "center">
+  <img width="650" height="400" src="https://github.com/agw25/Animal-Crossing-New-Horizons-Catalog-Repository/assets/161785109/1cfd1718-b4c0-4032-8ae8-b7b216180a26" alt="Table of a list of the thirty CSV files. They are as follows accessories, achievements, art, bags, bottoms, construction, dress up, fencing, fish, floors, fossils, headwear, headwear,insects, miscellaneous, music, other, photos, posters, reactions, recipes, rugs, shoes, socks, tools, tops, umbrellas, villagers, wall mounted, and wallpaper">
+</p>
+
+ main
+
 
 <p align= "center">
-  <img width="150" height="150" src="https://github.com/agw25/Animal-Crossing-New-Horizons-Catalog-Repository/assets/161785109/d2256144-087a-437e-978d-aed9f7130d01">
+  <img width="150" height="150" src="https://github.com/agw25/Animal-Crossing-New-Horizons-Catalog-Repository/assets/161785109/d2256144-087a-437e-978d-aed9f7130d01" alt="green frog chair gif blushing and moving right and left">
 </p>
 
 
-<sub align="center" > 
+<sub align="center"> 
   
   [Kelsie McGowan](https://kelsiem.wixsite.com/portfolio)@kelsiemcgowan </sub>
